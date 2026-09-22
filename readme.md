@@ -1,11 +1,4 @@
 ### Todo
-1. Download cse331 - ZYH - Summer 2026 Resources from Google Classroom
-2. Process the Github Sources down below
-
-
-
-
-
 
 
 
@@ -31,21 +24,20 @@
 
 ### 1.0.videos
 1. [MLH] Monirul Haque ------------------------ Github: [🔗][MLH]
-2. [MHB] Mursalin Habib ----------------------- (Spring 2022): [🔗][MBH]
-2. [MHB] Mursalin Habib ----------------------- (Spring 2022): [🔗][MBH.OG]
-3. [RFR] Rifat Rahman ------------------------- (Spring 2026): [🔗][RFR.sp26]
-4. [KKP] Kabbya Kantam Patwary ---------------- (2025/2026): [🔗][KKP]
-5. [ROY] Shaily Roy --------------------------- (2022): [🔗][ROY]
-5. [ROY] Shaily Roy 2 ------------------------- (2022): [🔗][ROY2]
-6. 
-7. [FDM] Fardin Rahman Ami -------------------- (2025): [🔗][FDM]
-8. Farhan Feroz ------------------------------- (2022/2023): [🔗][Farhan]
-9. Farhan Feroz Online Class ------------------ (2023): [🔗][FHZ]
-10. Neso Academy ------------------------------ (2016): [🔗][Neso]
-11. Old BuX ----------------------------------- (2021): [🔗][BuX]
-12. Old BuX 2 --------------------------------- (2021): [🔗][BuX2]
-13. MIT 18.404J ---- by Sipser (himself) ------ (Fall 2020): [🔗][MIT.18.404.fa20]
-14. MIT 6.045 --------------------------------- (Spring 2015): [🔗][MIT.6.045.sp15]
+2. [MHB] Mursalin Habib ----------------------- (Spring 2022): [🔗][MHB]
+3. [MHB] Mursalin Habib ----------------------- (Spring 2022): [🔗][MHB.OG]
+4. [RFR] Rifat Rahman ------------------------- (Spring 2026): [🔗][RFR.sp26]
+5. [KKP] Kabbya Kantam Patwary ---------------- (2025/2026): [🔗][KKP]
+6. [ROY] Shaily Roy --------------------------- (2022): [🔗][ROY]
+7. [ROY] Shaily Roy 2 ------------------------- (2022): [🔗][ROY2]
+8. [FDM] Fardin Rahman Ami -------------------- (2025): [🔗][FDM]
+9.  Farhan Feroz ------------------------------- (2022/2023): [🔗][Farhan]
+10. Farhan Feroz Online Class ------------------ (2023): [🔗][FHZ]
+11. Neso Academy ------------------------------ (2016): [🔗][Neso]
+12. Old BuX ----------------------------------- (2021): [🔗][BuX]
+13. Old BuX 2 --------------------------------- (2021): [🔗][BuX2]
+14. MIT 18.404J ---- by Sipser (himself) ------ (Fall 2020): [🔗][MIT.18.404.fa20]
+15. MIT 6.045 --------------------------------- (Spring 2015): [🔗][MIT.6.045.sp15]
 
 <!--========================================================================================================================-->
 
@@ -80,14 +72,15 @@
 
 ### Sources
 1. https://github.com/amirun-nahin/CSE331
-2. https://github.com/sabbirx06/CSE331_Spring_2026
-3. https://github.com/mebmrauf/CSE331-Automata-and-Computability
-4. https://github.com/anikabytes/BRACU_CSE331_Automata_And_Computability
-5. https://github.com/jnh070903/CSE331-AUTOMATA-AND-COMPUTABILITY-
-6. https://github.com/aljamikhan/CSE331-Bracu
-7. https://github.com/amitsutradhar02/BRACU_CSE331
-8. https://github.com/FaiazPronoy/BRACU_CSE331
-9. https://github.com/DeadboyTALHA/CSE331-Automata-and-Computability
-10. https://github.com/CrescentsChaos/BRACU-CSE331-KKP
-11. https://github.com/Foysal-001/Automata_-_Computability_BRACU_CSE331_Fall25
-12. https://github.com/capitalD10/BRACU_CSE331
+2. https://github.com/Noblesse013/CSE331-Automata-and-Computability
+3. https://github.com/sabbirx06/CSE331_Spring_2026
+4. https://github.com/mebmrauf/CSE331-Automata-and-Computability
+5. https://github.com/anikabytes/BRACU_CSE331_Automata_And_Computability
+6. https://github.com/jnh070903/CSE331-AUTOMATA-AND-COMPUTABILITY-
+7. https://github.com/aljamikhan/CSE331-Bracu
+8. https://github.com/amitsutradhar02/BRACU_CSE331
+9. https://github.com/FaiazPronoy/BRACU_CSE331
+10. https://github.com/DeadboyTALHA/CSE331-Automata-and-Computability
+11. https://github.com/CrescentsChaos/BRACU-CSE331-KKP
+12. https://github.com/Foysal-001/Automata_-_Computability_BRACU_CSE331_Fall25
+13. https://github.com/capitalD10/BRACU_CSE331
